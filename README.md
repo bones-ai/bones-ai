@@ -1,10 +1,12 @@
 ### Hello 👋
 
-I'm Sujay, I go by the alias [Bones](https://twitter.com/BonesaiDev)
+I'm Sujay, I go by the alias **[bones](https://twitter.com/BonesaiDev)**
 
-I work on AI simulations involving neural networks and genetic algorithms in my free time.
+I spend my free time exploring low-level software and building things that interest me. Many of my projects are open-source and can be found **[here](https://github.com/bones-ai)**.
 
-- **Projects** - [bones-ai.bearblog.dev/projects](https://bones-ai.bearblog.dev/projects/)
-- **Twitter** - [@BonesaiDev](https://twitter.com/BonesaiDev)
-- **Blog** - [bones-ai.bearblog.dev](https://bones-ai.bearblog.dev/)
-- **Youtube** - [@bonesai-dev](https://www.youtube.com/@bonesai-dev)
+You can find a collection of my projects and write-ups **[here](https://bones-ai.bearblog.dev/projects/)**.
+
+### Links
+- [Github](https://github.com/bones-ai)
+- [Twitter](https://twitter.com/BonesaiDev)
+- [YouTube](https://www.youtube.com/@bones-dev)
